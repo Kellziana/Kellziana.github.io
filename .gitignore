@@ -1,0 +1,17 @@
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+.env.local
+dotenv.local
+
+# Firebase (if needed)
+.firebase/
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Secret keys
+pythonKey
